@@ -6,8 +6,7 @@ function sleep(milliseconds) {
     }
   }
 }
-/*Fin  de la Funcion sleep 
-con ella podemos implementar igual que en Java*/
+/*Fin  de la Funcion sleep con ella podemos implementar igual que en Java*/
 
 function mostrar_propiedades(obj, objName) { 
    var result = ""; 
