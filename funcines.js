@@ -7,4 +7,5 @@ function sleep(milliseconds) {
   }
 }
 /*Fin  de la Funcion sleep 
-con ella podemos implementar igual que en Java*/
+con ella podemos implementar igual que en Java
+solo le pasamos el tiempo en ms Milisegundos que va a durar Durmiendo :) */
